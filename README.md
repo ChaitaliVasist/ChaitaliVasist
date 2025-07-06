@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Chaitali+Vasist;Full-Stack+Developer+💻;ML+Researcher+🧠;IoT+%26+AgriTech+Innovator+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Chaitali+Vasist;Full-Stack+Developer+💻;ML+Researcher+🧠;IoT+%26+AgriTech+Innovator+🌱" />
 </h1>
 
 <img src="https://github.com/ChaitaliVasist/chaitalivasist/blob/main/assets/banner.gif" width="100%" alt="hero-banner"/>
@@ -24,7 +24,6 @@
 - 💼 Tech-savvy Product Manager, delivering full lifecycle features
 - 🧪 Exploring Generative AI, LLMs & Precision Agriculture
 - 🏅 Certified: Prompt Engineering for GenAI
-- 🎭 Bharatanatyam Artist | ⚽ Footballer | 🏓 Table Tennis Enthusiast
 
 ---
 
