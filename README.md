@@ -64,9 +64,22 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,html,css,c,sql,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,express,html,css,js,ts,c,sql,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,fastapi,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" />
 </p>
+
+<!-- Additional tools (not available via skillicons.dev) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-8E44AD?style=for-the-badge&logo=neural&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageNet-FFB300?style=for-the-badge&logo=images&logoColor=black" />
+  <img src="https://img.shields.io/badge/EfficientNetB0-0096D6?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 
 ---
 
