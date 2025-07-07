@@ -117,7 +117,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-8E44AD?style=flat-square&logo=neural&logoColor=white)
 ![ImageNet](https://img.shields.io/badge/ImageNet-FFB300?style=flat-square&logo=images&logoColor=black)
 ![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-0096D6?style=flat-square&logo=tensorflow&logoColor=white)
@@ -148,7 +147,7 @@
 
 ---
 
-## 🌐 Languages I Speak
+## 🌐 Languages
 
 - 🇬🇧 **English** – Proficient  
 - 🇮🇳 **Hindi** – Proficient  
@@ -169,7 +168,7 @@
 
 <p align="center">
   <a href="mailto:chaitalivasist@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chaitalivasist"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chaitali-vasist-4798022b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/chaitalivasist"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
