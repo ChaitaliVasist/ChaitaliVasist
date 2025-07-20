@@ -24,6 +24,7 @@
 - 💼 Tech-savvy Product Manager, delivering full lifecycle features
 - 🧪 Exploring Generative AI, LLMs & Precision Agriculture
 - 🏅 Certified: Prompt Engineering for GenAI
+- 💻 Portfolio: https://chaitalivasist-portfolio.lovable.app/
 
 ---
 
@@ -58,6 +59,13 @@
 > A platform to crowdsource and locate real-time aid during disasters (shelter, food, water, medical help)  
 **Stack**: HTML/CSS, JS, MongoDB, Node.js, Map APIs  
 **Focus**: Social Impact, Emergency Response, Open Data
+
+---
+
+### 🌐 **Whispr App**
+> A full-featured messaging application with real-time push notifications built for Android
+**Stack**: React, Capacitor, Firebase Cloud Messaging, TanStack Query
+**Focus**: Real-time Messaging, Offline Support, Push Notifications, Native Android Experience
 
 ---
 
