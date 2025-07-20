@@ -62,7 +62,7 @@
 
 ---
 
-### 🌐 **Whispr App**
+### 📱 **Whispr App**
 > A full-featured messaging application with real-time push notifications built for Android
 **Stack**: React, Capacitor, Firebase Cloud Messaging, TanStack Query
 **Focus**: Real-time Messaging, Offline Support, Push Notifications, Native Android Experience
